@@ -20,7 +20,7 @@
     "component": {
       "styles": [
         "css/bootstrap.css",
-        "css/bootstrap-responsive.css",
+        "css/bootstrap-responsive.css"
       ],
       "files": [
         "img/glyphicons-halflings.png",

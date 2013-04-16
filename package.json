@@ -19,7 +19,7 @@
     }
   ],
   "dependencies": {
-    "bootstrap": "*"
+    "twitter-bootstrap": "*"
   },
   "main": "css/bootstrap.css"
 }
