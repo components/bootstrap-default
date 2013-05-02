@@ -9,7 +9,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "components-bootstrap": "~2.3.1"
+    "components/bootstrap": "~2.3.1"
   },
   "styles": [
     "css/bootstrap.css",
@@ -18,6 +18,5 @@
   "files": [
     "img/glyphicons-halflings.png",
     "img/glyphicons-halflings-white.png"
-  ],
-  "main": "css/bootstrap.css"
+  ]
 }
