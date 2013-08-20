@@ -19,12 +19,10 @@
   "extra": {
     "component": {
       "styles": [
-        "css/bootstrap.css",
-        "css/bootstrap-responsive.css"
+        "css/bootstrap-theme.css"
       ],
       "files": [
-        "img/glyphicons-halflings.png",
-        "img/glyphicons-halflings-white.png"
+        "css/bootstrap-theme.min.css"
       ],
       "shim": {
         "deps": ["bootstrap"]

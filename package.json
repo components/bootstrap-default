@@ -1,7 +1,7 @@
 {
   "name": "components-bootstrap-default",
   "description": "Shim repository for the default theme for Bootstrap.",
-  "version": "2.3.2",
+  "version": "3.0.0",
   "keywords": [
     "bootstrap",
     "css"
@@ -21,5 +21,5 @@
   "dependencies": {
     "twitter-bootstrap": "*"
   },
-  "main": "css/bootstrap.css"
+  "main": "css/bootstrap-theme.css"
 }

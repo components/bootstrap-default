@@ -1,17 +1,16 @@
 {
   "name": "components-bootstrap-default",
   "description": "Shim repository for the default theme for Bootstrap.",
-  "version": "2.3.2",
+  "version": "3.0.0",
   "keywords": [
     "bootstrap",
     "css"
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "components-bootstrap": "~2.3.2"
+    "components-bootstrap": "~3.0.0"
   },
   "main": [
-    "css/bootstrap.css",
-    "css/bootstrap-responsive.css"
+    "css/bootstrap-theme.css"
   ]
 }
