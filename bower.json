@@ -11,6 +11,7 @@
     "components-bootstrap": "~3.0.0"
   },
   "main": [
+    "css/bootstrap.css",
     "css/bootstrap-theme.css"
   ]
 }
