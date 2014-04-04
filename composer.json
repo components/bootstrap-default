@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "robloach/component-installer": "*"
+    "robloach/component-installer": "*",
     "components/bootstrap": "*"
   },
   "extra": {
