@@ -1,5 +1,5 @@
 {
-  "name": "lordvlad/bootstrap-default",
+  "name": "components/bootstrap-default",
   "description": "Shim repository for the default theme for Bootstrap.",
   "type": "component",
   "keywords": [
