@@ -3,7 +3,7 @@
   "repo": "components/bootstrap-default",
   "description": "Shim repository for the default theme for Bootstrap.",
   "homepage": "http://getbootstrap.com",
-  "version": "3.2.0",
+  "version": "3.3.5",
   "keywords": [
     "bootstrap",
     "css"
